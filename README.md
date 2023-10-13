@@ -1,2 +1,4 @@
 # Project1
-I am going to create my first repository on Github
+Hello Everyone,
+This is Ashish Kumar Shukla.
+Here, I am going to create my first repository on Github
